@@ -2,9 +2,9 @@
 
 ![Desktop design](/design/desktop-design.png)
 
-## [Live]() | [Solution]() | [Challenge](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
+## [Live](https://tomasmansilla.github.io/fylo-data-storage-component-master/) | [Solution](https://www.frontendmentor.io/solutions/fylo-data-storage-component-Wzx08524kY) | [Challenge](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
 
-This is a solution to the [Fylo data storage component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Fylo data storage component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
